@@ -1,6 +1,8 @@
 # dynamr
 Detecting and modeling temporal effect heterogeneity with panel data Use dynamr With (In) R Software
 
+https://www.youtube.com/watch?v=HRRBr1adA5Q
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
